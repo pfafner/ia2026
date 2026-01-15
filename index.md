@@ -35,7 +35,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 01       | 14.01.2026   | Inicio del curso.                                                 | 
 
 
-# Proyectos del Curso
+# Proyectos
 <div id='id-proj'/>
 
 En el curso se trabajarán varios proyectos, los cuales se indicarán más adelante.
@@ -50,6 +50,6 @@ En el curso se trabajarán varios proyectos, los cuales se indicarán más adela
 
 * [S. Russell y P. Norvig (2013). *Inteligencia Artificial: Un enfoque moderno*. 2a ed.](https://libgen.li/ads6b862ce758b8513e6d5627895d2bfc3dTZVFFXU8){:target="_blank"}
 
-* [A. Ng (2018) *Machine Learning Yearning*. Draft version.](https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf){:target="_blank"}
+* [A. Ng (2018). *Machine Learning Yearning*. Draft version.](https://home-wordpress.deeplearning.ai/wp-content/uploads/2022/03/andrew-ng-machine-learning-yearning.pdf){:target="_blank"}
 
 * [S. Rogers y M.Girolami (2016). *A First Course in Machine Learning*. 2a ed.](https://libgen.li/ads.php?md5=da4e756c95d32f718c9e36003c1b3c03){:target="_blank"}
