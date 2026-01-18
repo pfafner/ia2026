@@ -32,7 +32,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 
 **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
-01       | 14.01.2026   | Inicio del curso.                                                 | 
+01       | 14.01.2026   | Introducción y motivación. Definición de IA.                      | 
 
 
 # Proyectos
