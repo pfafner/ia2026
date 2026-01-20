@@ -33,7 +33,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 **No.**  | **Fecha**    | **Tópicos**                                                       | **Recursos**
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
 01       | 14.01.2026   | Introducción y motivación. Definición de IA.                      | 
-
+02       | 19.01.2026   | Historia de la IA. Personajes y algoritmos importantes.           | [Hoja de Trabajo 1a](actividades/Hoja_de_Trabajo_1a.pdf){:target="_blank"} [Hoja de Trabajo 1b](actividades/Hoja_de_Trabajo_1b.pdf){:target="_blank"}
 
 # Proyectos
 <div id='id-proj'/>
