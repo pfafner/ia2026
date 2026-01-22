@@ -34,7 +34,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 -------- | ------------ | ----------------------------------------------------------------- |  -------------------------------------
 01       | 14.01.2026   | Introducción y motivación. Definición de IA. [Aula 01](aulas/Aula01.pdf){:target="_blank"} | [Hoja de Trabajo 1a](actividades/Hoja_de_Trabajo_1a.pdf){:target="_blank"}
 02       | 19.01.2026   | Historia de la IA. Personajes y algoritmos importantes. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Cronología IA](aulas/Cronología_IA.pdf){:target="_blank"} <br/> [Hoja de Trabajo 1b](actividades/Hoja_de_Trabajo_1b.pdf){:target="_blank"}  
-03       | 21.01.2026   | Agentes. Secuencias de percepción. Ejemplos. <br/> Agentes racionales. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Descripción de Agentes](actividades/Descripcion_de_Agentes.xlsx){:target="_blank"} <br/> [Clasificación de Ambientes](actividades/Clasificacion_de_Ambientes.xlsx){:target="_blank"} 
+03       | 21.01.2026   | Agentes. Secuencias de percepción. Ejemplos. <br/> Agentes racionales. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Descripción de Agentes](actividades/Descripcion_de_Agentes.xlsx){:target="_blank"} 
 
 
 # Proyectos
