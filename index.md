@@ -36,7 +36,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 02       | 19.01.2026   | Historia de la IA. Personajes y algoritmos importantes. [Aula 02](aulas/Aula02.pdf){:target="_blank"} | [Cronología IA](aulas/Cronología_IA.pdf){:target="_blank"} <br/> [Hoja de Trabajo 1b](actividades/Hoja_de_Trabajo_1b.pdf){:target="_blank"}  
 03       | 21.01.2026   | Agentes. Secuencias de percepción. Ejemplos. <br/> Agentes racionales. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Descripción de Agentes](actividades/Descripcion_de_Agentes.xlsx){:target="_blank"} 
 04       | 26.01.2026   | Ambientes. Clasificación de Ambientes. Tipos de Agentes. | [Clasificación de Ambientes](actividades/Clasificacion_de_Ambientes.xlsx){:target="_blank"} <br/>  [Tipos de Agentes](actividades/Clasificacion_de_Agentes.xlsx){:target="_blank"}
-
+05       | 28.01.2026   | Datos. Tipos de variables. Transformaciones. Encodings y embeddings. | 
 
 
 # Proyectos
