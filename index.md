@@ -38,14 +38,6 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 04       | 26.01.2026   | Ambientes. Clasificación de Ambientes. Tipos de Agentes. | [Clasificación de Ambientes](actividades/Clasificacion_de_Ambientes.xlsx){:target="_blank"} <br/>  [Tipos de Agentes](actividades/Clasificacion_de_Agentes.xlsx){:target="_blank"}
 
 
-# Compromiso de Cumplimiento de Normativas
-
-Por favor firmar y entregar en Canvas, hoy 28 de enero de 2026.
-
- **Fecha**    | **Documento**                                                       | **Recursos**
- ------------ | ----------------------------------------------------------------- |  -------------------------------------
- 28.01.2026   | [COMPROMISO DE CUMPLIMIENTO DE NORMATIVAS](documentos/COMPROMISO_DE_CUMPLIMIENTO_DE_NORMATIVAS.pdf){:target="_blank"} {:target="_blank"}
-
 
 # Proyectos
 <div id='id-proj'/>
