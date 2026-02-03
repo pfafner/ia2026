@@ -37,6 +37,8 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 03       | 21.01.2026   | Agentes. Secuencias de percepción. Ejemplos. <br/> Agentes racionales. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | [Descripción de Agentes](actividades/Descripcion_de_Agentes.xlsx){:target="_blank"} 
 04       | 26.01.2026   | Ambientes. Clasificación de Ambientes. Tipos de Agentes. | [Clasificación de Ambientes](actividades/Clasificacion_de_Ambientes.xlsx){:target="_blank"} <br/>  [Tipos de Agentes](actividades/Clasificacion_de_Agentes.xlsx){:target="_blank"}
 05       | 28.01.2026   | Datos. Tipos de variables. Transformaciones. Encodings y embeddings. | 
+06       | 02.02.2026   | Clustering. Agrupamiento Jerárquico. |  
+L1       | 02.02.2026   | Lab 1. <br/> **Entrega: lunes 9 de febrero.** | [Lab 01](labs/Lab01.pdf){:target="_blank"} <br/> [countries_binary.xlsx](labs/countries_binary.xlsx){:target="_blank"}
 
 
 # Proyectos
