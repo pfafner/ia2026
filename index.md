@@ -39,6 +39,7 @@ El curso requiere madurez por parte del estudiante, pues se integran contenidos 
 05       | 28.01.2026   | Datos. Tipos de variables. Transformaciones. Encodings y embeddings. | 
 06       | 02.02.2026   | Clustering. Agrupamiento Jerárquico. |  
 L1       | 02.02.2026   | Lab 1. <br/> **Entrega: lunes 9 de febrero.** | [Lab 01](labs/Lab01.pdf){:target="_blank"} <br/> [countries_binary.xlsx](labs/countries_binary.xlsx){:target="_blank"}
+07       | 04.02.2026   | K-means y variantes: K-medianas, K-medoids, Fuzzy K-means. |  
 
 
 # Proyectos
