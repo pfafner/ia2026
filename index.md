@@ -43,7 +43,7 @@ L1       | 02.02.2026   | Lab 1. <br/> **Entrega: lunes 9 de febrero.** | [Lab 0
 08       | 09.02.2026   | Clasificación supervisada. Train y test set. |  
 09       | 09.02.2026   | Algoritmo K-nearest neighbors (KNN). | 
 10       | 11.02.2026   | Clasificador Bayesiano óptimo. Naïve Bayes. | 
-11       |   |   |  
+11       | 16.02.2026   | Regresión logística. Conjuntos linealmente separables. |    
 
 
 # Proyectos
