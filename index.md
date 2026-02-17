@@ -44,6 +44,7 @@ L1       | 02.02.2026   | Lab 1. <br/> **Entrega: lunes 9 de febrero.** | [Lab 0
 09       | 09.02.2026   | Algoritmo K-nearest neighbors (KNN). | 
 10       | 11.02.2026   | Clasificador Bayesiano óptimo. Naïve Bayes. | 
 11       | 16.02.2026   | Regresión logística. Conjuntos linealmente separables. |    
+L2       | 16.02.2026   | Lab 2. <br/> **Entrega: lunes 23 de febrero.** | [Lab 02](labs/Lab02.pdf){:target="_blank"} 
 
 
 # Proyectos
