@@ -47,7 +47,7 @@ L1       | 02.02.2026   | Lab 1. <br/> **Entrega: lunes 9 de febrero.** | [Lab 0
 L2       | 16.02.2026   | Lab 2. <br/> **Entrega: lunes 23 de febrero.** | [Lab 02](labs/Lab02.pdf){:target="_blank"} 
 12       | 23.02.2026   | Redes neuronales.  |    
 13       | 25.02.2026   | Parámetros e Hiper-parámetros. Stochastic Gradient Descent. Mini-Batch Gradient Descent.  | 
-14       |  |   |  
+14       | 02.03.2026   | Implementación de redes neuronales en Keras.  |  
 
 
 # Proyectos
