@@ -54,7 +54,16 @@ L3       | 02.03.2026   | Lab 3. <br/> **Entrega: lunes 10 de marzo.** | [Lab 03
 # Proyectos
 <div id='id-proj'/>
 
-En el curso se trabajarán varios proyectos, los cuales se indicarán más adelante.
+En el curso se trabajarán tres proyectos.
+
+## Proyecto 1 (Agentes Reactivos - Machine Learning)
+<div id='id-proj1'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 02.03.2026   | Proyecto 1 - *Machine Learning*.              | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
+ 2       | 06.04.2026   | Presentación y entrega del proyecto.          | 
+
 
 
 # Referencias
