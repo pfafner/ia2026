@@ -52,7 +52,9 @@ L3       | 02.03.2026   | Lab 3. <br/> **Entrega: lunes 09 de marzo.** | [Lab 03
 15       | 04.03.2026   | Problemas de búsqueda.  |  
 16       | 09.03.2026   | Representación de problemas de búsqueda. Árbol de configuraciones.  |  
 L4       | 09.03.2026   | Lab 4. <br/> **Entrega: lunes 16 de marzo.** | [Lab 04](labs/Lab04.pdf){:target="_blank"} 
-17       | 11.03.2026   | Algoritmos de búsqueda. DFS y BFs.  |  
+17       | 11.03.2026   | Algoritmos de búsqueda I: DFS y BFs.  |  
+18       | 16.03.2026   | Algoritmos de búsqueda II: Uniform Cost Search (UCS), Greedy, A*.  |  
+L5       | 18.03.2026   | Lab 5. <br/> **Entrega: miércoles 25 de marzo.** | [Lab 05](labs/Lab05.pdf){:target="_blank"} 
 
 
 # Proyectos
