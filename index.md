@@ -62,7 +62,7 @@ L5       | 18.03.2026   | Lab 5. <br/> **Entrega: miércoles 25 de marzo.** | [L
 
 En el curso se trabajarán tres proyectos.
 
-## Proyecto 1 (Agentes Reactivos - Machine Learning)
+## Proyecto 1 (Agentes Reflejo - Machine Learning)
 <div id='id-proj1'/>
 
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
