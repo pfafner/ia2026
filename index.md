@@ -55,6 +55,7 @@ L4       | 09.03.2026   | Lab 4. <br/> **Entrega: lunes 16 de marzo.** | [Lab 04
 17       | 11.03.2026   | Algoritmos de búsqueda I: DFS y BFs.  |  
 18       | 16.03.2026   | Algoritmos de búsqueda II: Uniform Cost Search (UCS), Greedy, A*.  |  
 L5       | 18.03.2026   | Lab 5. <br/> **Entrega: miércoles 25 de marzo.** | [Lab 05](labs/Lab05.pdf){:target="_blank"} 
+19       |              |     |  
 
 
 # Proyectos
