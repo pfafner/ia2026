@@ -72,10 +72,25 @@ En el curso se trabajarán tres proyectos.
  2       | 06.04.2026   | Presentación y entrega del proyecto.          | 
 
 ## Horarios de presentación Proyecto 1
+ 
 
-**No.**  | **Hora**   | **Grupo**    | **Integrantes**
--------- | ---------- | ------------ | -------------------------------------
- 1       |            |              |   
+ **Hora**   | **Grupo**    
+----------- | ------------
+5:20	| Grupo 1 
+5:32	| Grupo 2 
+5:44	| Grupo 3 
+5:56	| Grupo 4 
+6:08	| Grupo 5 
+6:20	| Grupo 6 
+6:32	| Grupo 7 
+6:44	| Grupo 8 
+6:56	| Grupo 9 
+7:08	| Grupo 10 
+7:20	| Grupo 11 
+7:32	| Grupo 12 
+
+
+<img width="209" height="290" alt="image" src="https://github.com/user-attachments/assets/cf3c84c1-6e3d-40c4-b0fb-cebeb387af1e" />
 
 
 # Referencias
