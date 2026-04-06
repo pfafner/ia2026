@@ -90,9 +90,6 @@ En el curso se trabajarán tres proyectos.
 7:32	| Grupo 12 
 
 
-<img width="209" height="290" alt="image" src="https://github.com/user-attachments/assets/cf3c84c1-6e3d-40c4-b0fb-cebeb387af1e" />
-
-
 # Referencias
 <div id='id-ref'/>
 
