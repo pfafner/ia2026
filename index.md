@@ -71,9 +71,20 @@ En el curso se trabajarán tres proyectos.
  1       | 02.03.2026   | Proyecto 1 - *Machine Learning*.              | [Proyecto 1](proyectos/Proyecto1.pdf){:target="_blank"} <br/> 
  2       | 06.04.2026   | Presentación y entrega del proyecto.          | 
 
+
+
+## Proyecto 2 (Algoritmos de búsqueda)
+<div id='id-proj2'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 08.04.2026   | Proyecto 2 - *Búsqueda*.                      | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
+ 2       | 04.05.2026   | Entrega del proyecto.                         | 
+ 3       | 06.05.2026   | Entrega del informe y código.                 | 
+
+
 ## Horarios de presentación Proyecto 1
  
-
  **Hora**   | **Grupo**    
 ----------- | ------------
 5:20	| Grupo 1 
