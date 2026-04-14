@@ -58,7 +58,7 @@ L5       | 18.03.2026   | Lab 5. <br/> **Entrega: miércoles 25 de marzo.** | [L
 19       | 23.03.2026   | Árbol de expansión mínima: Algoritmo de Prim, Algoritmo de Kruskal.    |  
 20       | 06.04.2026   | Entrega del primer proyecto.  |  
 21       | 08.04.2026   | Problemas de búsquea con restricciones. CSP. Backtracking. Forward Checking. | 
-L5       | 18.03.2026   | Lab 6. <br/> **Entrega: lunes 20 de abril.** | [Lab 06](labs/Lab06.pdf){:target="_blank"} 
+L6       | 13.04.2026   | Lab 6. <br/> **Entrega: lunes 20 de abril.** | [Lab 06](labs/Lab06.pdf){:target="_blank"} 
 
 
 
