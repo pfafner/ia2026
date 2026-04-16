@@ -59,7 +59,7 @@ L5       | 18.03.2026   | Lab 5. <br/> **Entrega: miércoles 25 de marzo.** | [L
 20       | 06.04.2026   | Entrega del primer proyecto.  |  
 21       | 08.04.2026   | Problemas de búsqueda con restricciones. CSP. Backtracking. Forward Checking. | 
 L6       | 13.04.2026   | Lab 6. <br/> **Entrega: lunes 20 de abril.** | [Lab 06](labs/Lab06.pdf){:target="_blank"} 
-
+22       | 15.04.2026   | Búsqueda adversaria. Algoritmo minimax.  |  
 
 
 # Proyectos
