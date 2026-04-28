@@ -62,7 +62,7 @@ L6       | 13.04.2026   | Lab 6. <br/> **Entrega: lunes 20 de abril.** | [Lab 06
 22       | 15.04.2026   | Búsqueda adversaria I: Algoritmo minimax.  | 
 23       | 22.04.2026   | Búsqueda adversaria II: *alpha-beta prunning*. Expectimax y expectiminimax.  | 
 24       | 27.04.2026   | Montecarlo Tree Search (MCTS). | 
-L7       | 27.04.2026   | Lab 7. <br/> **Entrega: lunes 11 de mayo.** | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
+L7       | 27.04.2026   | Lab 7. <br/> **Entrega: lunes 04 de mayo.** | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
 
 
 
@@ -87,8 +87,8 @@ En el curso se trabajarán tres proyectos.
 **No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
 -------- | ------------ | --------------------------------------------- |  -------------------------------------
  1       | 08.04.2026   | Proyecto 2 - *Búsqueda*.                      | [Proyecto 2](proyectos/Proyecto2.pdf){:target="_blank"} <br/> 
- 2       | 04.05.2026   | Entrega del proyecto.                         | 
- 3       | 06.05.2026   | Entrega del informe y código.                 | 
+ 2       | 11.05.2026   | Entrega del proyecto.                         | 
+ 3       | 13.05.2026   | Entrega del informe y código.                 | 
 
 
 ## Horarios de presentación Proyecto 1
