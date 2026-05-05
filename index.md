@@ -63,6 +63,7 @@ L6       | 13.04.2026   | Lab 6. <br/> **Entrega: lunes 20 de abril.** | [Lab 06
 23       | 22.04.2026   | Búsqueda adversaria II: *alpha-beta prunning*. Expectimax y expectiminimax.  | 
 24       | 27.04.2026   | Montecarlo Tree Search (MCTS). | 
 L7       | 27.04.2026   | Lab 7. <br/> **Entrega: lunes 04 de mayo.** | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
+25       | 29.04.2026   | Repaso de probabilidad condicional. Regla de Bayes. | 
 
 
 
