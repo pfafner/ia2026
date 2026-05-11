@@ -92,7 +92,7 @@ En el curso se trabajarán tres proyectos.
  3       | 13.05.2026   | Entrega del informe y código.                 | 
 
 
-## Horarios de presentación Proyecto 1
+## Horarios de presentación Proyecto 2
  
  **Hora**   | **Grupo**    
 ----------- | ------------
