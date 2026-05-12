@@ -64,7 +64,8 @@ L6       | 13.04.2026   | Lab 6. <br/> **Entrega: lunes 20 de abril.** | [Lab 06
 24       | 27.04.2026   | Montecarlo Tree Search (MCTS). | 
 L7       | 27.04.2026   | Lab 7. <br/> **Entrega: lunes 04 de mayo.** | [Lab 07](labs/Lab07.pdf){:target="_blank"} 
 25       | 29.04.2026   | Repaso de probabilidad condicional. Regla de Bayes. | 
-
+26       | 04.05.2026   | Ejemplos de cálculo bayesiano. | 
+27       | 11.05.2026   | Entrega del segundo proyecto. | 
 
 
 # Proyectos
