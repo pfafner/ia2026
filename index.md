@@ -93,6 +93,18 @@ En el curso se trabajarán tres proyectos.
  3       | 13.05.2026   | Entrega del informe y código.                 | 
 
 
+
+## Proyecto 3 (Juegos adversarios)
+<div id='id-proj3'/>
+
+**No.**  | **Fecha**    | **Tópicos**                                   | **Recursos**
+-------- | ------------ | --------------------------------------------- |  -------------------------------------
+ 1       | 12.05.2026   | Proyecto 3 - *Juegos*.                      | [Proyecto 3](proyectos/Proyecto3.pdf){:target="_blank"} <br/> 
+ 2       | 1 al 4.06.2026   | Entrega del proyecto.                         | 
+ 3       | 05.06.2026   | Entrega del informe y código.                 | 
+
+
+
 ## Horarios de presentación Proyecto 2
  
  **Hora**   | **Grupo**    
