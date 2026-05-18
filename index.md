@@ -68,7 +68,7 @@ L7       | 27.04.2026   | Lab 7. <br/> **Entrega: lunes 04 de mayo.** | [Lab 07]
 27       | 11.05.2026   | Entrega del segundo proyecto. | 
 28       | 13.05.2026   | Redes Bayesianas. | 
 29       | 18.05.2026   | Topologías de redes. Cálculo con redes bayesianas. | 
-L8       | 18.05.2026   | Lab 8. <br/> **Entrega: lunes 25 de mayo.** | [Lab 08](labs/Lab08.pdf){:target="_blank"} 
+L8       | 18.05.2026   | Lab 8. <br/> **Entrega: lunes 25 de mayo.** | [Lab 08](labs/Lab08.pdf){:target="_blank"} <br/> [Sensor_Color_Distribution.csv](labs/Sensor_Color_Distribution.csv){:target="_blank"}
 
 
 # Proyectos
